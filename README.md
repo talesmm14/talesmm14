@@ -3,10 +3,13 @@
 ***You can find me on: [![LinkedIn][1.1]][1]***
 <!-- Icons -->
 [1.1]: https://img.icons8.com/color/30/000000/linkedin.png (LinkedIn icon without padding)
+[2.1]: https://img.icons8.com/color/30/000000/instagram.png (Instagram icon without padding)
 
 <!-- Links to your social media accounts -->
 
-[1]: https://www.linkedin.com/in/cyro-paulino-da-costa-junior-a0865325/
+[1]: https://www.linkedin.com/in/talesmelquiades/
+[2]: https://www.instagram.com/talesmelquiades/
+[3]: https://talesmm14.github.io/
 
 #### GitHub Stats: :bar_chart:
 <a href="https://github.com/cyropcjr/github-readme-stats">
