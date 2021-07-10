@@ -1,6 +1,6 @@
 ### Hi there, I'm Tales Melquiades Software Programmer .😎🎮💻
 
-***You can find me on: [![LinkedIn][1.1]][1] [![Instagram][2.1]][2] [![website][1.1]][3] [![youtube][4.1]][4]***
+***You can find me on: [![LinkedIn][1.1]][1] [![Instagram][2.1]][2] [![website][3.1]][3] [![youtube][4.1]][4]***
 <!-- Icons -->
 [1.1]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [2.1]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
