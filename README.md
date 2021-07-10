@@ -1,9 +1,10 @@
-### Hi there, I'm Talesm Software Engineer and Game Developer.😎🎮💻
+### Hi there, I'm Tales Melquiades Software Programmer .😎🎮💻
 
-***You can find me on: [![LinkedIn][1.1]][1] [![Instagram][2.1]][2] [![website][1.1]][1]***
+***You can find me on: [![LinkedIn][1.1]][1] [![Instagram][2.1]][2] [![website][1.1]][3]***
 <!-- Icons -->
 [1.1]: https://img.icons8.com/color/30/000000/linkedin.png (LinkedIn icon without padding)
 [2.1]: https://img.icons8.com/color/30/000000/instagram.png (Instagram icon without padding)
+[3.1]: https://img.icons8.com/ios-glyphs/30/000000/portfolio.png (Portfolio icon without padding)
 
 <!-- Links to your social media accounts -->
 
