@@ -1,4 +1,5 @@
 ### Hi there, I'm Tales Melquiades Software Programmer .😎🎮💻
+<img align='right' src="https://i.pinimg.com/originals/a7/12/3a/a7123a124ba35c74c421e1678e2bb677.gif" width="350">
 
 - 🔭 Junior Developer
 - 📫 You can find me on: [![LinkedIn][1.1]][1] [![Instagram][2.1]][2] [![youtube][4.1]][4] [![website][3.1]][3]
@@ -17,7 +18,6 @@
 [4]: https://www.youtube.com/channel/UCXQeoAqIjh2TC4S1aVnnN7g
 
 #### GitHub Stats: :bar_chart:
-<img align='right' src="https://i.pinimg.com/originals/a7/12/3a/a7123a124ba35c74c421e1678e2bb677.gif" width="350">
 <a href="https://github.com/talesmm14/github-readme-stats">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=talesmm14&count_private=true&show_icons=true&theme=react" />
 </a>
