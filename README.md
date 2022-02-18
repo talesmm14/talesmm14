@@ -1,7 +1,7 @@
 ### Hi there, I'm Tales Melquiades Software Programmer .😎🎮💻
 <img align='right' src="https://i.pinimg.com/originals/a7/12/3a/a7123a124ba35c74c421e1678e2bb677.gif" width="200">
 
-- 🔭 Junior Developer
+- 🔭 Junior Developer (Intern)
 - 📫 You can find me on: [![LinkedIn][1.1]][1] [![Instagram][2.1]][2] [![youtube][4.1]][4] [![website][3.1]][3]
 - 🧠 University of Tocantins: Information Systems in Information Technology
 <!-- Icons -->
