@@ -65,7 +65,7 @@ Featured Projects: [Rocket](https://www.spacex.com/), [Marte](https://pt.wikiped
 
 **Software Engineer (Jr)** \
 [**Secretaria da Administração**](https://www.to.gov.br/secad) • Contract \
-Languages & Technologies: `JavaScript`, `Node`, `React`\
+Languages & Technologies: `JavaScript`, `Python`, `Django`, `Celery`, `Rabbitmq`, `C`\
 Projects: [Frotas](), [SAF]()
 <br/>
 
