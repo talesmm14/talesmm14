@@ -49,36 +49,6 @@ class TalesMelquiades():
 <code><img height="32" src="https://unity.gallerycdn.vsassets.io/extensions/unity/unity-debug/3.0.2/1605217535175/Microsoft.VisualStudio.Services.Icons.Default" alt="unity"/></code>
 
 
-### Work Experience
-In the overview below you will find my most recent work experience:
-
-<!--[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
-
-**Software Engineer** \
-[**SpaceX**](https://www.spacex.com/) • Full-time \
-Languages & Technologies: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`,\
-Featured Projects: [Rocket](https://www.spacex.com/), [Marte](https://pt.wikipedia.org/wiki/Marte_(planeta))
-<br/>
--->
-
-[<img align="left" height="94px" width="94px" alt="Secretaria da Administração" src="https://servir.life/images/logo_governo_to.png"/>](https://www.to.gov.br/secad)
-
-**Software Engineer (Jr)** \
-[**Secretaria da Administração**](https://www.to.gov.br/secad) • Contract \
-Languages & Technologies: `JavaScript`, `Python`, `Django`, `Celery`, `Rabbitmq`, `C`\
-Projects: [Frotas](), [SAF]()
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="ATI" src="https://barra.to.gov.br/imagens/orgaos/ati.png?1614021798"/>](https://www.to.gov.br/ati)
-
-**Development intern** \
-[**ATI**](https://www.to.gov.br/ati) • trainee \
-Languages & Technologies: `Java`, `Python`, `C#`, `Spring`, `Django`, `.NET`, `JavaScript` \
-<!-- Featured Projects: [App](https://www.to.gov.br/ati) -->
-<br/>
-<br/>
-
-
 <!--
 **talesmm14/talesmm14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
