@@ -11,8 +11,8 @@
 class TalesMelquiades():
   def __init__(self):
     self.name = 'Tales Monteiro Melquiades'
-    self.study = 'University of Tocantins: Information Systems in Information Technology'
-    self.office = 'Web Developer in Secretaria da Administração - Governo do Tocantins'
+    self.study = 'University of Tocantins: Information Systems in Information Technology [2017 - 2023]'
+    self.office = 'Python FullStack Developer in Ecorp-ISP (ecorp-isp.com.br)'
     self.birthday = datetime.datetime(1999, 09, 10)
     self.local = 'Palmas - TO Brazil'
 ```
