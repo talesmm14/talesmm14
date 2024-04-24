@@ -6,7 +6,6 @@
 <a href="https://www.twitch.tv/talesmelquiades"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></img></a>
 <a href="https://www.linkedin.com/in/talesmelquiades/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 
-
 ```python
 class TalesMelquiades():
   def __init__(self):
@@ -25,6 +24,10 @@ class TalesMelquiades():
 <a href="https://github.com/talesmm14/github-readme-stats">
   <img align="center" style="margin:0.5rem"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=talesmm14&theme=react&layout=compact&hide=javascript,html,jupyter%20notebook,css&count_private=true" />
 </a>
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=talesmm14&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 <!-- <img align='left' src="https://i.pinimg.com/originals/a7/12/3a/a7123a124ba35c74c421e1678e2bb677.gif" width="150px"> -->
 
