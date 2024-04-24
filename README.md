@@ -5,6 +5,7 @@
 <a href="https://www.youtube.com/channel/UCXQeoAqIjh2TC4S1aVnnN7g"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=twitch&logoColor=white"></img></a>
 <a href="https://www.twitch.tv/talesmelquiades"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></img></a>
 <a href="https://www.linkedin.com/in/talesmelquiades/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+<a href="http://lattes.cnpq.br/9751162321747450"><img src="https://img.shields.io/badge/Lattes-0077B5?style=for-the-badge&logo=GitBook&logoColor=white"></img></a>
 
 ```python
 class TalesMelquiades():
