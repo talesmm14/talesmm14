@@ -23,7 +23,7 @@ class TalesMelquiades():
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=talesmm14&count_private=true&show_icons=true&theme=react" />
 </a>
 <a href="https://github.com/talesmm14/github-readme-stats">
-  <img align="center" style="margin:0.5rem"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=talesmm14&theme=react&layout=compact&hide=javascript,html,jupyter%20notebook,css&count_private=true" />
+  <img align="center" style="margin:0.5rem"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=talesmm14&theme=react&layout=compact&hide=javascript,html,scss,stylus,blade,jupyter%20notebook,css,typescript,shell,batchfile,dockerfile,typescri,ruby&count_private=true" />
 </a>
 
 
