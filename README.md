@@ -1,5 +1,7 @@
 ### Hi there, I'm Tales Melquiades Software Programmer .😎🎮💻
 
+Graduated in Information Systems at the State University of Tocantins, I am a programmer with over 4 years of experience in Python. I began in 2019, working on a project for the SSP using Django, and since then, I haven't stopped. Currently, I work as a full-stack Python developer, responsible for building new systems, improving existing ones, and maintaining systems on Linux servers with Docker and CI/CD integration. I have experience in various other programming languages, including C#, Java, and C/C++, and I am always eager to take on new challenges and learn new things. I am passionate about finding effective technological solutions to help people achieve their goals.
+
 <a href="https://talesmm14.github.io/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=dev.to&logoColor=white"></img></a>
 <a href="https://www.instagram.com/talesmelquiades/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=twitch&logoColor=white"></img></a>
 <a href="https://www.youtube.com/channel/UCXQeoAqIjh2TC4S1aVnnN7g"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=twitch&logoColor=white"></img></a>
@@ -17,14 +19,11 @@ class TalesMelquiades():
     self.local = 'Palmas - TO Brazil'
 ```
 
-
 #### GitHub Stats: :bar_chart:
-<a href="https://github.com/talesmm14/github-readme-stats">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=talesmm14&count_private=true&show_icons=true&theme=react" />
-</a>
-<a href="https://github.com/talesmm14/github-readme-stats">
-  <img align="center" style="margin:0.5rem"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=talesmm14&theme=react&layout=compact&hide=javascript,html,scss,stylus,blade,jupyter%20notebook,css,typescript,shell,batchfile,dockerfile,typescri,ruby&count_private=true" />
-</a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=talesmm14&theme=tokyonight)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=talesmm14&theme=tokyonight&exclude=html)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=talesmm14&theme=tokyonight)
 
 
 ## 🏆 GitHub Trophies
@@ -52,6 +51,7 @@ class TalesMelquiades():
 <code><img height="32" src="https://unity.gallerycdn.vsassets.io/extensions/unity/unity-debug/3.0.2/1605217535175/Microsoft.VisualStudio.Services.Icons.Default" alt="unity"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" alt="Arduino"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" alt="java"/></code>
+
 
 
 <!--
