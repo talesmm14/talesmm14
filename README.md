@@ -1,4 +1,4 @@
-### Hi there, I'm Tales Melquiades Software Programmer .😎🎮💻
+### Hi there, I'm Tales Melquiades Software Engineer .😎🎮💻
 
 Graduated in Information Systems at the State University of Tocantins, I am a programmer with over 4 years of experience in Python. I began in 2019, working on a project for the SSP using Django, and since then, I haven't stopped. Currently, I work as a full-stack Python developer, responsible for building new systems, improving existing ones, and maintaining systems on Linux servers with Docker and CI/CD integration. I have experience in various other programming languages, including C#, Java, and C/C++, and I am always eager to take on new challenges and learn new things. I am passionate about finding effective technological solutions to help people achieve their goals.
 
