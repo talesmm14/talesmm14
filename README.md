@@ -32,7 +32,7 @@ class TalesMelquiades():
 <!-- <img align='left' src="https://i.pinimg.com/originals/a7/12/3a/a7123a124ba35c74c421e1678e2bb677.gif" width="150px"> -->
 
 ## Technologies
-
+<!--
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"/></code>
 <code><img height="32" src="https://batisteo.gallerycdn.vsassets.io/extensions/batisteo/vscode-django/1.10.0/1645525785595/Microsoft.VisualStudio.Services.Icons.Default" alt="Django"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png" alt="Kubernetes"/></code>
@@ -51,7 +51,7 @@ class TalesMelquiades():
 <code><img height="32" src="https://unity.gallerycdn.vsassets.io/extensions/unity/unity-debug/3.0.2/1605217535175/Microsoft.VisualStudio.Services.Icons.Default" alt="unity"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" alt="Arduino"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" alt="java"/></code>
-
+ -->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,django,go,c,cpp,cs,java,lua,postgresql,mongodb,redis,linux,kubernetes" />
