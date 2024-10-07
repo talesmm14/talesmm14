@@ -20,14 +20,14 @@ class TalesMelquiades():
 ```
 
 #### GitHub Stats: :bar_chart:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=talesmm14&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=talesmm14&theme=zenburn)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=talesmm14&theme=tokyonight&exclude=html)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=talesmm14&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=talesmm14&theme=zenburn&exclude=html)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=talesmm14&theme=zenburn)
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=talesmm14&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=talesmm14&theme=chalk&no-frame=false&no-bg=false&margin-w=4)
 
 <!-- <img align='left' src="https://i.pinimg.com/originals/a7/12/3a/a7123a124ba35c74c421e1678e2bb677.gif" width="150px"> -->
 
