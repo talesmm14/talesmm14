@@ -52,11 +52,11 @@ class TalesMelquiades():
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" alt="Arduino"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" alt="java"/></code>
  -->
-<p align="center">
+<!--<p align="center"> -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,django,go,c,cpp,cs,java,lua,postgresql,mongodb,redis,linux,kubernetes" />
   </a>
-</p>
+<!--</p> -->
 
 <!--
 **talesmm14/talesmm14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
