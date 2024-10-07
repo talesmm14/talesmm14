@@ -54,7 +54,15 @@ class TalesMelquiades():
  -->
 <!--<p align="center"> -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,go,c,cpp,cs,java,lua,postgresql,mongodb,redis,linux,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=python,go,c,cpp,cs,java,lua" />
+  </a>
+  </br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,flask,fastapi,spring,dotnet,aws,gcp" />
+  </a>
+  </br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,linux,bash,docker,kubernetes" />
   </a>
 <!--</p> -->
 
