@@ -2,6 +2,9 @@
 
 Graduated in Information Systems at the State University of Tocantins, I am a programmer with over 4 years of experience in Python. I began in 2019, working on a project for the SSP using Django, and since then, I haven't stopped. Currently, I work as a full-stack Python developer, responsible for building new systems, improving existing ones, and maintaining systems on Linux servers with Docker and CI/CD integration. I have experience in various other programming languages, including C#, Java, and C/C++, and I am always eager to take on new challenges and learn new things. I am passionate about finding effective technological solutions to help people achieve their goals.
 
+[![Schedule a meeting](https://img.shields.io/badge/Agendar%20um%20Compromisso-📅-informational?style=for-the-badge&color=039BE5)](https://calendar.google.com/calendar/appointments/schedules/AcZssZ2aHeCRGyq2tdAIr0FYAn7Hkty83n3IG4HCJ_uBQPusjuyTs9Z00l_ky8gSJnCIBw3dnnjee6mi?gv=true)
+
+
 <a href="https://talesmm14.github.io/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=dev.to&logoColor=white"></img></a>
 <a href="https://www.instagram.com/talesmelquiades/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=twitch&logoColor=white"></img></a>
 <a href="https://www.youtube.com/channel/UCXQeoAqIjh2TC4S1aVnnN7g"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=twitch&logoColor=white"></img></a>
